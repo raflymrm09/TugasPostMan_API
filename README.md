@@ -1,10 +1,8 @@
 
 # TugasPostMan_API
-```
 Berikut adalah kodingan untuk Tugas Postman API :
-python
+```python
 from flask import Flask, request, jsonify
-```
 app = Flask(_name_)
 
 # Endpoint untuk cek saldo
@@ -61,7 +59,7 @@ def handle_request():
 
 if _name_ == '_main_':
     app.run(debug=True, port=5000)
-
+```
 
 
 Hasil Output: 
