@@ -65,10 +65,7 @@ if _name_ == '_main_':
 
 
 Hasil Output: 
-
-
-<img width="1920" height="1152" alt="Screenshot 2025-11-05 144434" src="![Gambar WhatsApp 2025-11-05 pukul 14 44 46_07ee7c78](https://github.com/user-attachments/assets/8c46556f-a26c-49e7-b8c7-aa71c04cb3af)
-" />
+![Gambar WhatsApp 2025-11-05 pukul 14 44 46_07ee7c78](https://github.com/user-attachments/assets/8f54b896-970a-4645-a671-6e684ee027c7)
 
 
 Bagian "nama" dan "nim" ini adalah data yang dikirim dari client (Postman), bukan yang disimpan di server.
